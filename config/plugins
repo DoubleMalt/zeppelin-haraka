@@ -1,4 +1,4 @@
-auth/ldap
+auth/auth_ldap
 tls
 # rcpt_to.in_host_list
 queue/smtp_forward
